@@ -1,0 +1,17 @@
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/bin/Debug/netstandard2.0/Todo.deps.json
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/bin/Debug/netstandard2.0/Todo.dll
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/bin/Debug/netstandard2.0/Todo.pdb
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/obj/Debug/netstandard2.0/Todo.csprojAssemblyReference.cache
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/obj/Debug/netstandard2.0/Todo.csproj.CoreCompileInputs.cache
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/obj/Debug/netstandard2.0/Todo.AssemblyInfoInputs.cache
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/obj/Debug/netstandard2.0/Todo.AssemblyInfo.cs
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/obj/Debug/netstandard2.0/Todo.dll
+/Users/robertouriona/Documents/XAMARIN/xamarin-forms-samples-master/Todo/Todo/obj/Debug/netstandard2.0/Todo.pdb
+/Users/robertouriona/Projects/Todo/Todo/bin/Debug/netstandard2.0/Todo.deps.json
+/Users/robertouriona/Projects/Todo/Todo/bin/Debug/netstandard2.0/Todo.dll
+/Users/robertouriona/Projects/Todo/Todo/bin/Debug/netstandard2.0/Todo.pdb
+/Users/robertouriona/Projects/Todo/Todo/obj/Debug/netstandard2.0/Todo.csproj.CoreCompileInputs.cache
+/Users/robertouriona/Projects/Todo/Todo/obj/Debug/netstandard2.0/Todo.AssemblyInfoInputs.cache
+/Users/robertouriona/Projects/Todo/Todo/obj/Debug/netstandard2.0/Todo.AssemblyInfo.cs
+/Users/robertouriona/Projects/Todo/Todo/obj/Debug/netstandard2.0/Todo.dll
+/Users/robertouriona/Projects/Todo/Todo/obj/Debug/netstandard2.0/Todo.pdb
